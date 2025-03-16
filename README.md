@@ -28,6 +28,7 @@ The notebook follows these steps:
 
 ## Results
 The XGBoost model achieved the best results
+
 <img width="489" alt="Screenshot 2025-03-16 at 21 43 53" src="https://github.com/user-attachments/assets/844e7df2-267a-466d-becd-db8795bc72ef" />
 
 ## Usage
