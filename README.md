@@ -1,6 +1,3 @@
-# Cirrhosis-Survival-Prediction
-Predicting cirrhosis survival using machine learning algorithms, including XGBoost, Random Forest and Decision Tree, implemented in a Colab notebook.
-
 # Cirrhosis Prediction using Machine Learning
 This project utilizes machine learning techniques to predict cirrhosis outcomes. The notebook explores various algorithms such as Random Forest, Decision Tree, Naive-Bayes, KNN and SVM to build a predictive model.
 
